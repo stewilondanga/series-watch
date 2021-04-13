@@ -149,7 +149,7 @@ table td:first-letter {
   text-transform: uppercase;
 }
 
-/*#contact h1 {
+#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
@@ -160,6 +160,7 @@ table td:first-letter {
   margin: 0 auto;
 }
 
+/*
 .cal {
   display: inline-block;
   background: #ffe;
