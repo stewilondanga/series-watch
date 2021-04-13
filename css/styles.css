@@ -140,11 +140,12 @@ table td a {
   color: #CB8735;
 }
 
-/*table td a:hover {
+table td a:hover {
   color: #C29D61;
   font-weight: 600;
 }
-table td:first-letter {
+
+/*table td:first-letter {
   text-transform: uppercase;
 }
 
