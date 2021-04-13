@@ -104,12 +104,12 @@
   transition-delay: 0.4s;
 }
 
-/*
 .table-wrapper {
   display: flex;
   flex-direction: column;
 }
-.table-wrapper span {
+
+/*.table-wrapper span {
   text-align: center;
   margin-top: 30px;
   border: 2px dashed #EECE9A;
