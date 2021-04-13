@@ -109,7 +109,7 @@
   flex-direction: column;
 }
 
-/*.table-wrapper span {
+.table-wrapper span {
   text-align: center;
   margin-top: 30px;
   border: 2px dashed #EECE9A;
@@ -119,6 +119,7 @@
   border-radius: 10px;
 }
 
+/*
 h1 {
   color: #F2A216;
   text-align: center;
