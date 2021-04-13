@@ -145,11 +145,11 @@ table td a:hover {
   font-weight: 600;
 }
 
-/*table td:first-letter {
+table td:first-letter {
   text-transform: uppercase;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
