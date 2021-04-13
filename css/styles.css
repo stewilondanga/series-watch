@@ -1,4 +1,9 @@
-body {
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -105,6 +110,48 @@ body {
 
 .share-button:hover .share__link:nth-of-type(4) {
   transition-delay: 0.4s;
+}
+
+
+.table-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+.table-wrapper span {
+  text-align: center;
+  margin-top: 30px;
+  border: 2px dashed #EECE9A;
+  padding: 10px;
+  color: #9C8051;
+  background-color: #FDD28C;
+  border-radius: 10px;
+}
+
+h1 {
+  color: #F2A216;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Playfair Display", serif;
+}
+
+table td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid;
+  background-color: #F8F196;
+  color: #CB8735;
+  cursor: pointer;
+}
+table td a {
+  text-decoration: none;
+  color: #CB8735;
+}
+table td a:hover {
+  color: #C29D61;
+  font-weight: 600;
+}
+table td:first-letter {
+  text-transform: uppercase;
 }
 
 #contact h1 {
